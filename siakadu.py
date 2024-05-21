@@ -29,7 +29,6 @@ class KRS:
         for mk in self.mata_kuliah:
             print(f"- {mk['kode_mk']}: {mk['nama_mk']} ({mk['sks']} SKS)")
 
-# Contoh penggunaan kelas-kelas di atas
 
 # Membuat instance dari kelas Mahasiswa
 mahasiswa1 = Mahasiswa('2023001', 'Fiska Viola Nadila')
